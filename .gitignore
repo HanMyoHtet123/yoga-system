@@ -1,3 +1,6 @@
 *.pptx
 *.docx
 *.exe
+/.vscode
+*.tmp
+.gitignore
