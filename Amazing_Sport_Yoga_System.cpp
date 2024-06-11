@@ -408,7 +408,7 @@ int main(){
     cout<<"\t\t\t\t***Welcome from Amazing Sport Yoga System***"<<endl<<"                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<"\n\t\t\t\t***YIU YOUTH International University***\n";
     cout<<"\t\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
     cout<<"\n\t\t\t\t\t\t*29Batch*\n\t\t\t\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
-	cout<<"\n\t\t\t\t\t    !*Han Myo Htet*!";
+	cout<<"\n\t\t\t\t\t    !*Developed by Han Myo Htet*!";
 	cin.get();
     cout << "\033[2J\033[1;1H";
 	cout<<endl;
